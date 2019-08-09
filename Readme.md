@@ -4,8 +4,9 @@ https://www.avrfreaks.net/projects/i2c-twi-sniffer
 
 I try this setting
 
-Use Internal 8M clock  
+Internal 8M clock  
 115200 boud  
+Fuse is E:FF, H:DF, L:E2  
 
 6Pin TX  
 7Pin SCL  
